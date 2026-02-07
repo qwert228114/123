@@ -1,0 +1,5 @@
+{
+  "name": "Copy of VocabLoop - Offline Word Repeater",
+  "description": "A vocabulary learning tool that loops through your word list (En-Cn-En-En) using built-in offline text-to-speech.",
+  "requestFramePermissions": []
+}
